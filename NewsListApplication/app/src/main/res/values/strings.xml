@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News List Application</string>
+    <string name="app_name2">News List"\n"Application</string>
+    <string name="network_popup_title">OOPS !</string>
+    <string name="network_popup_description">Please Check Your Internet</string>
+    <string name="network_popup_btn">Retry</string>
+</resources>
